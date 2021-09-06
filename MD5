@@ -1,0 +1,17 @@
+45b6e24d6d8c3d2d3120b473db5c5bd5 *DESCRIPTION
+ceeee1092d585e19313977a54cb6c0b3 *NAMESPACE
+bcc9d52d7b00394e9ab27d1d0389f92a *NEWS.md
+9f623565b1d61504368027ffea2847f9 *R/0prism_classes.R
+56afb71643f567d752b04181a920a4ad *R/1client_lib.R
+d3c7a0ed1a6b0b75adef9550bf25ab1a *R/package-init.R
+493db0179f045da8fef0147d706c3611 *README.md
+215141cbf4a5ba1e7a2ff928d818fa7b *man/default_server.Rd
+d917cbb94a75461c0ce46fb5df607f0d *man/draw_plots.Rd
+7aede79f0eb73f220bca139a4dd52bde *man/get_async_results.Rd
+4b1e9873abb01fe61307041ce7dd9c98 *man/get_default_input.Rd
+76b11242ec01b51130c7ff707a2217ae *man/get_plots.Rd
+94537046002b8c7d67658df83ab93e21 *man/get_session.Rd
+0bc962a64fe4878d8bb36608e740ef3b *man/handshake.Rd
+cd86696175e9dccdfc409ed028f5afb3 *man/model_run.Rd
+501e1c80a5c7bfe7217f36f6c2606fb9 *man/prism_call.Rd
+b31b455ff63d900fad5dec242b68ec84 *man/reset_session.Rd
